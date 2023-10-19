@@ -1,2 +1,2 @@
 # dev-discussions
-null repo to host discussion
+null repo to host organization discussion
